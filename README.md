@@ -16,5 +16,5 @@ Este é um jogo de bateria interativo onde cada tecla pressionada produz um som 
 
 ## Feito por:
 ### Bruna Pupo
-### Sie MIDI Drum: https://play-drum-js.vercel.app/
+### Site MIDI Drum: https://play-drum-js.vercel.app/
 ### Linkedin: https://www.linkedin.com/in/bruna-dias-pupo-0ab221199/
